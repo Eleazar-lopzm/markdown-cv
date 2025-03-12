@@ -35,11 +35,11 @@ Web Development, Distributed Computing, Cloud Computing
 __Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (6th Semester)__
 
 ## Certifications
-    `2025`
-  __AWS Cloud Technology and Services Concepts – DataCamp__
+`2025`
+__AWS Cloud Technology and Services Concepts – DataCamp__
 
 ## Projects
-    `2025`
+`2025`
    __Traffic Incident Reporting System:__
       Developed a web-based traffic incident reporting system.
       Backend: Kotlin with Spring, Postman.
