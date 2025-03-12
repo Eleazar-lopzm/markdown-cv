@@ -19,6 +19,7 @@ Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) si
 - Databases: PostgreSQL.
 - Frameworks: React, Spring, Postman.
 - Cloud: Studying for AWS Cloud Practitioner.
+- Agile Methodologies: SCRUM & Kanban
 - English: B1.
 
 
