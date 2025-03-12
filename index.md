@@ -31,7 +31,7 @@ Web Development, Distributed Computing, Cloud Computing.
 
 ## Education
 
-`August 2022 - Present`   
+`August 2022 - Present`     
 __Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (6th Semester).__
 
 ## Certifications
