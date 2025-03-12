@@ -48,10 +48,8 @@ __AWS Cloud Technology and Services Concepts – DataCamp__
       Frontend: HTML, CSS, JavaScript, React.
       
 ## Languages
-
-- Spanish (Native)
-
-- English (B1)
+- _Spanish (Native)_
+- _English (B1)_
 
 
 
