@@ -1,7 +1,4 @@
----
-layout: cv
-title: Eleazar López CV
----
+
 # Eleazar López M.
 
 
@@ -48,8 +45,8 @@ __AWS Cloud Technology and Services Concepts – DataCamp__
       Frontend: HTML, CSS, JavaScript, React.
       
 ## Languages
-- _Spanish (Native)._
-- _English (B1)._
+- Spanish (Native).
+- English (B1).
 
 
 
