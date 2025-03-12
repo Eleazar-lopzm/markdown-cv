@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eleazar López CV
 ---
 # José Eleazar López Montúfar
 
@@ -16,7 +16,7 @@ title: Isaac Newtons's CV
 
 Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) since August 2022, with a focus on Frontend Web Development.
 
-## Skills
+### Skills
 
 - Languages: Java, HTML5, CSS, Javascript, C, Python, Kotlin
 - Databases: PostgreSQL
@@ -26,28 +26,22 @@ Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) si
 
 
 ### Research interests
-
-- Web Development
-
-- Distributed Computing
-
-- Cloud Computing
+Web Development, Distributed Computing, Cloud Computing
 
 
 ## Education
 
-- `August 2022 - Present`  
-
-    Universidad Nacional Autónoma de México (UNAM) -
-    Studying Computer Science (6th Semester)
+ `August 2022 - Present`  
+__Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (6th Semester)__
 
 ## Certifications
-
-- `2025` - AWS Cloud Technology and Services Concepts – DataCamp
+    `2025`
+__AWS Cloud Technology and Services Concepts – DataCamp__
 
 ## Projects
 
-  `2025` - Traffic Incident Reporting System:
+  `2025` 
+  __Traffic Incident Reporting System:__
 
     Developed a web-based traffic incident reporting system.
 
@@ -55,7 +49,7 @@ Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) si
 
     Frontend: HTML, CSS, JavaScript, React.
 
-## Languages
+### Languages
 
 - Spanish (Native)
 
