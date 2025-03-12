@@ -18,20 +18,21 @@ Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) si
 
 ### Skills
 
-- Languages: Java, HTML5, CSS, Javascript, C, Python, Kotlin
-- Databases: PostgreSQL
-- Frameworks: React, Spring, Postman
-- Cloud: Studying for AWS Cloud Practitioner
-- English: B1
+- Languages: Java, HTML5, CSS, Javascript, C, Python, Kotlin.
+- Databases: PostgreSQL.
+- Frameworks: React, Spring, Postman.
+- Cloud: Studying for AWS Cloud Practitioner.
+- English: B1.
 
 
 ### Research interests
-Web Development, Distributed Computing, Cloud Computing
+Web Development, Distributed Computing, Cloud Computing.
 
 
 ## Education
+
 `August 2022 - Present`
-__Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (6th Semester)__
+__Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (6th Semester).__
 
 ## Certifications
 
@@ -47,8 +48,8 @@ __AWS Cloud Technology and Services Concepts – DataCamp__
       Frontend: HTML, CSS, JavaScript, React.
       
 ## Languages
-- _Spanish (Native)_
-- _English (B1)_
+- _Spanish (Native)._
+- _English (B1)._
 
 
 
