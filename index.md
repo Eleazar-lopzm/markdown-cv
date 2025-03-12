@@ -2,90 +2,65 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# José Eleazar López Montúfar
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="eleazarlopez.jelm@gmail.com"> ✉️ eleazarlopez.jelm@gmail.com</a>
+| <a> 📞 5576439017</a>
+| <a href="https://www.linkedin.com/in/jos%C3%A9-eleazar-l%C3%B3pez-mont%C3%BAfar-176775259/"> LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) since August 2022, with a focus on Frontend Web Development.
 
-### Specialized in
+### Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Languages: Java, HTML5, CSS, Javascript, C, Python, Kotlin
+- Databases: PostgreSQL
+- Frameworks: React, Spring, Postman
+- Cloud: Studying for AWS Cloud Practitioner
+- English: B1
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Web Development
+
+- Distributed Computing
+
+- Cloud Computing
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+- `August 2022 - Present`  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+    Universidad Nacional Autónoma de México (UNAM) -
+    Studying Computer Science (6th Semester)
 
-- Sizar
+## Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
+- `2025` - AWS Cloud Technology and Services Concepts – DataCamp
 
-- Fellow
+## Projects
 
+- `2025` - Traffic Incident Reporting System:
 
+    Developed a web-based traffic incident reporting system.
 
-## Awards
+    Backend: Kotlin with Spring, Postman.
 
-`2012`
-President, *Royal Society*, London, UK
+    Frontend: HTML, CSS, JavaScript, React.
 
-Associate, *French Academy of Science*, Paris, France
+## Languages
 
+- Spanish (Native)
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- English (B1)
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
