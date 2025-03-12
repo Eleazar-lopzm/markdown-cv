@@ -36,14 +36,14 @@ __Universidad Nacional Autónoma de México (UNAM) - Studying Computer Science (
 
 ## Certifications
     `2025`
-__AWS Cloud Technology and Services Concepts – DataCamp__
+  __AWS Cloud Technology and Services Concepts – DataCamp__
 
 ## Projects
     `2025`
-  __Traffic Incident Reporting System:__
-    Developed a web-based traffic incident reporting system.
-    Backend: Kotlin with Spring, Postman.
-    Frontend: HTML, CSS, JavaScript, React.
+   __Traffic Incident Reporting System:__
+      Developed a web-based traffic incident reporting system.
+      Backend: Kotlin with Spring, Postman.
+      Frontend: HTML, CSS, JavaScript, React.
 ### Languages
 
 - Spanish (Native)
