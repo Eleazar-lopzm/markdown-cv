@@ -16,7 +16,7 @@ title: Isaac Newtons's CV
 
 Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) since August 2022, with a focus on Frontend Web Development.
 
-### Skills
+## Skills
 
 - Languages: Java, HTML5, CSS, Javascript, C, Python, Kotlin
 - Databases: PostgreSQL
@@ -47,7 +47,7 @@ Studying Computer Science at Universidad Nacional Autónoma de México (UNAM) si
 
 ## Projects
 
-- `2025` - Traffic Incident Reporting System:
+  `2025` - Traffic Incident Reporting System:
 
     Developed a web-based traffic incident reporting system.
 
